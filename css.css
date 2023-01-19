@@ -1,0 +1,234 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@700&display=swap');
+
+nav ul,a{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    height: 65px;
+    background-color: rgb(19, 63, 80);
+    color: white;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%;
+    border: 0;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    
+}
+li{
+    padding: 0 20px;
+
+}
+
+.container{
+    min-height: 200vh;
+    background-color: skyblue;
+    color: white;
+ 
+   
+   margin: 1px auto;
+   width: 100%;
+   
+   padding: 1px;
+   background-image: url('bg15.jpg') ;
+   background-position: 100%;
+   background-size: cover;
+  
+   height: max-content;
+   background-repeat: no-repeat;
+  
+  
+}
+h1{
+    text-align:center;
+    padding-top: 50px;
+    font-size: 70px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    font-style:oblique ;
+    color:rgb(235, 247, 247);
+    text-shadow: 20px 20px 20px skyblue;
+}
+marquee{
+    text-decoration:overline underline;
+    text-align:center;
+ font-size:50px;
+
+    
+}
+h2{
+    text-align:center; 
+    font-size: 30px;
+    font-style: italic ;
+    color:rgb(235, 247, 247);
+    text-shadow: 20px 10px 15px skyblue;
+}
+.about{
+    text-align: center;
+    font-size: 40px;
+    background-color: blueviolet;
+}
+p{
+   
+    font-size: 30px;
+    color: white;
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 0px;
+    
+
+}
+table{
+
+   margin-left: 350px;
+   margin-right: 350px;
+   border-color: whitesmoke;
+   margin-top: 0px;
+}
+
+
+a:hover{
+    color: blue;
+    
+    text-decoration: none;
+    background-color: pink;
+}
+.header{
+    font-size: 60px;
+    text-align: center;
+    color:rgb(237, 238, 243);
+    background-color: rgba(180, 125, 125, 0.705);
+    margin-left: 500px;
+   margin-right: 500px;
+   padding-bottom: 0px;
+   text-shadow: 20px 10px 15px skyblue;
+
+    
+}
+nav{
+    position: fixed;
+    width: 100%;
+    margin:0px;
+   top:-20px;
+
+}
+
+.place tr td {
+    width: 850px;
+    font-size: 40px;
+    text-align: center;
+    font-style: oblique;
+}
+
+.place tr td a:hover{
+    color:blue;
+    
+    text-decoration: none;
+    background-color:yellow;
+    
+}
+
+h3{
+    text-align: center;
+    font-size: xx-large;
+    font-style: oblique;
+     text-shadow: 20px 20px 20px rgb(221, 231, 195);
+
+}
+.place{
+    background-color: rgba(180, 125, 125, 0.705);
+
+}
+.Events tr td {
+    width: 850px;
+    font-size: 40px;
+    text-align: center;
+    font-style: oblique;
+}
+
+.Events
+ tr td a:hover{
+    color:blue;
+    
+    text-decoration: none;
+    background-color:yellow;
+    
+}
+.Events{
+    background-color: rgba(180, 125, 125, 0.705);
+}
+.Location tr td {
+    width: 850px;
+    font-size: 40px;
+    text-align: center;
+    font-style: oblique;
+}
+
+.Location
+ tr td a:hover{
+    color:blue;
+    
+    text-decoration: none;
+    background-color:yellow;
+    
+}
+.Location{
+    background-color: rgba(180, 125, 125, 0.705);
+}
+
+.Contacts tr td {
+    width: 850px;
+    font-size: 40px;
+    text-align: center;
+    font-style: oblique;
+}
+
+
+
+.Contacts
+ tr td a:hover{
+    color:blue;
+    
+    text-decoration: none;
+    background-color:yellow;
+    
+}
+.Contacts{
+    background-color: rgba(180, 125, 125, 0.705);
+}
+.kumkum{
+    text-decoration: none;
+    background-color:transparent;
+    width: 200px;
+    font-size: 30px;
+   
+}
+#c1{
+    display: flex;
+    justify-content: center;
+
+}
+.offline{
+    display: flex;
+    justify-content: center;
+padding-left: 170px;
+}
+.Deeksha{
+    text-decoration: none;
+    background-color:transparent;
+    width: 200px;
+    font-size: 30px;
+}
+.logo{
+    font-size: 20px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    color: aquamarine;
+    text-shadow: 20px 20px 20px rgb(221, 231, 195);
+    font-style: italic;
+}
